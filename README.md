@@ -1,4 +1,4 @@
-## Hi ! 👋 <br> I am Hardik, just a kid who is obsessed with technology.
+### Hi ! 👋 <br> I am Hardik, just a kid who is obsessed with technology.
 
 #### I am currently a BCA student, haven't found my niche in the I.T. industry yet. <br> I like to say programming is my 1st language. I have always been in love with technology, I got interested in programming at the age of 10 by playing around with scratch 2.0, soon I started to learn more about the world of ones & zeros.
 
@@ -9,3 +9,7 @@
 ## Connect with me:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hardik--shah/) &nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hardik.2673@gmail.com)
+
+--------------------------
+
+<i>  " Technology so sophisticated it's indistinguishable from magic ". </i>
