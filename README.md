@@ -13,3 +13,4 @@
 --------------------------
 
 <i>  " Technology so sophisticated it's indistinguishable from magic ". </i>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Hardik-26&label=👁‍🗨&color=blue&style=plastic" alt="Hardik-26" /> </p>
