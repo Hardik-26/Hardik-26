@@ -2,7 +2,7 @@
 
 #### I am currently a BCA student, haven't found my niche in the I.T. industry yet. <br> I like to say programming is my 1st language. I have always been in love with technology, I got interested in programming at the age of 10 by playing around with scratch 2.0, soon I started to learn more about the world of ones & zeros.
 
-#### In 6th grade, I took I.T as my additional subject, I started to build small games in "QBasic" for fun. After I graduated from 10th grade, I was introduced to the world of Python language and its community, I developed my knowledge in python so much that I sold my 1st python program at the age of 17. <br> <br> A year later, I developed and released my first python module. : [![Scanny](https://badge.fury.io/py/scanny.svg)](https://badge.fury.io/py/scanny) .
+#### In 6th grade, I took I.T as my additional subject, I started to build small games in "QBasic" for fun. After I graduated from 10th grade, I was introduced to the world of Python language and its community, I developed my knowledge in python to such a level that I was able to sell my 1st python program at the age of 17. <br> <br> A year later, I developed and released my first python module. : [![Scanny](https://badge.fury.io/py/scanny.svg)](https://badge.fury.io/py/scanny) .
 
 #### Currently, I am working on a project that can solve any jigsaw puzzle WITHOUT using A.I. <br> That's my journey in programming till now. 🙃
 --------------------------
