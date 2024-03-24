@@ -1,10 +1,13 @@
-### Hi ! 👋 <br> I am Hardik, just a kid who is obsessed with technology.
+I am currently a BCA student at Christ University(Central Campus), haven't found my niche in the I.T. industry yet.
 
-#### I am currently a BCA student, haven't found my niche in the I.T. industry yet. <br> I like to say programming is my 1st language. I have always been in love with technology, I got interested in programming at the age of 10 by playing around with scratch 2.0, soon I started to learn more about the world of ones & zeros.
+Having been captivated by technology from an early age. My interest in programming was piqued at the age of 10 when I began experimenting with Scratch 2.0. Subsequently, I delved deeper into the realm of 1 and 0's.
 
-#### In 6th grade, I took I.T as my additional subject, I started to build small games in "QBasic" for fun. After I graduated from 10th grade, I was introduced to the world of Python language and its community, I developed my knowledge in python to such a level that I was able to sell my 1st python program at the age of 17. <br> <br> A year later, I developed and released my first python module. : [![Scanny](https://badge.fury.io/py/scanny.svg)](https://badge.fury.io/py/scanny) .
+In junior school, I opted for Information Technology (I.T.) as an additional subject and began crafting small games in "QBasic" purely for the sake of enjoyment. After completing my 10th-grade education, I was introduced to the Python programming language and its vibrant community. I diligently honed my skills in Python to such an extent that, at the age of 17, I successfully sold my first Python program.
+A year later, I developed and launched my very own Python module. [https://badge.fury.io/py/scanny.svg](https://badge.fury.io/py/scanny) .
 
-#### Currently, I am working on a project that can solve any jigsaw puzzle WITHOUT using A.I. <br> That's my journey in programming till now. 🙃
+presently, I am actively engaged in a project aimed at solving jigsaw puzzles without resorting to Artificial Intelligence (AI).
+
+This encapsulates my journey in the field of programming thus far.
 --------------------------
 ## Connect with me:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hardik--shah/) &nbsp;
