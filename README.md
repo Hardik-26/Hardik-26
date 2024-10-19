@@ -3,7 +3,7 @@ I am currently a BCA student at Christ University(Central Campus), haven't found
 Having been captivated by technology from an early age. My interest in programming was piqued at the age of 10 when I began experimenting with Scratch 2.0. Subsequently, I delved deeper into the realm of 1 and 0's.
 
 In junior school, I opted for Information Technology (I.T.) as an additional subject and began crafting small games in "QBasic" purely for the sake of enjoyment. After completing my 10th-grade education, I was introduced to the Python programming language and its vibrant community. I diligently honed my skills in Python to such an extent that, at the age of 17, I successfully sold my first Python program.
-A year later, I developed and launched my very own Python module. [https://badge.fury.io/py/scanny.svg](https://badge.fury.io/py/scanny) .
+A year later, I developed and launched my very own Python module. [![Scanny](https://badge.fury.io/py/scanny.svg)](https://badge.fury.io/py/scanny) .
 
 presently, I am actively engaged in a project aimed at solving jigsaw puzzles without resorting to Artificial Intelligence (AI).
 
